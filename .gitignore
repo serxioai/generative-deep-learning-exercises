@@ -2,3 +2,4 @@ logs/
 assets/
 checkpoint/
 models/
+vae_models/
