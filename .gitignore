@@ -3,3 +3,5 @@ assets/
 checkpoint/
 models/
 vae_models/
+vae_faces_models/
+.env
